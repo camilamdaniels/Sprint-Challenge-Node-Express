@@ -4,9 +4,13 @@
 
 ## Questions
 1. What is Node?
+	Node is an open source server framework that allows you to store data and handle data requests from a client.
 2. What is Express?
+	Express is a Node framework that allows you to access features that simplify building applications via plugins.
 3. What is Middleware?
+	Middleware allows you to pass data between software components or applications.
 4. What is an endpoint?
+	An endpoint is a URL used to communicate with an API.
 
 ## Challenge
 
